@@ -1,3 +1,5 @@
 public interface Array {
-    String[] geometricFigures = {"square", "triangle", "circle", "rectangle"};
+    String[] geometricFigures = {"Kwadrat", "Trójkąt", "Koło", "Prostokąt"};
+
+    //void obliczPole();
 }
